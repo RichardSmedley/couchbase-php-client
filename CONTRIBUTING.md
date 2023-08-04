@@ -12,7 +12,7 @@ there are no formatting guidelines per se, the code should look similar to the e
 
 Released versions of the library are marked as annotated tags inside the repository.
 
-* The `master` branch represents the mainline branch. The master branch typically consists of content going into the
+* The `main` branch represents the mainline branch. The master branch typically consists of content going into the
   next release.
 
 ## Contributing Patches
